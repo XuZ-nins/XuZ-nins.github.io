@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xu Zhang's Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Xu Zhang, PhD"
 description              : &description "Postdoctoral Research Fellow at Boston Children's Hospital/Harvard Medical School"
