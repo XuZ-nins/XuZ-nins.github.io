@@ -22,11 +22,11 @@ repository               : "XuZ-nins/XuZ-nins.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xu's Personal Website"
+  name             : "Xu Zhang, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow at Boston Children's Hospital/Harvard Medical School"
   location         : "Cambridge/Boston, Massachusetts"
-  employer         : "Boston Children's Hospital/Harvard Medical School"
+  employer         : "Boston Children's Hospital/HMS"
   uri              : # URL
   email            : "Xu.Zhang@childrens.harvard.edu" 
 
