@@ -21,7 +21,7 @@ repository               : "XuZ-nins/XuZ-nins.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePic.png"
   name             : "Xu Zhang, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow at Boston Children's Hospital/Harvard Medical School"
